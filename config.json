@@ -1,0 +1,13 @@
+{
+    "botToken": "MTAxNjIwOTQ3MTQwMTM3MzcyOQ.GBXHEJ.F1tSxaC2s2rJwKi_2maFXKyJztp7HZLwmwqKSk",
+    "logs_channel_id": "1016209672279162900",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "Jweak Verifed",
+
+    "mass_dm": 0,
+    "message": "Kayıt Başarılı"
+}
