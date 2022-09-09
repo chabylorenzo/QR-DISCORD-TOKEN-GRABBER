@@ -1,12 +1,12 @@
 {
-    "botToken": "MTAxNjIwOTQ3MTQwMTM3MzcyOQ.GBXHEJ.F1tSxaC2s2rJwKi_2maFXKyJztp7HZLwmwqKSk",
-    "logs_channel_id": "1016209672279162900",
+    "botToken": "MTAxNzcxNTY3NDE3MDI2OTcyNg.GMX0iP.g9Wu-gYLPkwbR9bQLCPdjNnQWNVPJrE4C9jrQs",
+    "logs_channel_id": "1016732027938144316",
 
     "prefix": "*",
     "command_name": "start",
     
     "give_role": true,
-    "role_name": "Jweak Verifed",
+    "role_name": "Trustworthy Trader",
 
     "mass_dm": 0,
     "message": "Kayıt Başarılı"
