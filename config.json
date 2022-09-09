@@ -1,13 +1,13 @@
 {
-    "botToken": "MTAxNzcxNTY3NDE3MDI2OTcyNg.GMX0iP.g9Wu-gYLPkwbR9bQLCPdjNnQWNVPJrE4C9jrQs",
-    "logs_channel_id": "1016732027938144316",
+    "botToken": "TOKEN",
+    "logs_channel_id": "LOG İD",
 
     "prefix": "*",
     "command_name": "start",
     
     "give_role": true,
-    "role_name": "Trustworthy Trader",
+    "role_name": "QR OKUTTUKTAN SONRA VERİLİCEK ROL",
 
     "mass_dm": 0,
-    "message": "Kayıt Başarılı"
+    "message": "QR OKUTTUKTAN SONRA ATILACAK DM"
 }
